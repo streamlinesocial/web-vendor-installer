@@ -1,6 +1,6 @@
 <?php
 
-namespace streamlinesocial\Composer;
+namespace streamlinesocial\Composer\Installer;
 
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;
