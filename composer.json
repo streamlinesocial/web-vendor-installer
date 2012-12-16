@@ -1,6 +1,7 @@
 {
     "name": "streamlinesocial/web-vendor-installer",
     "type": "composer-installer",
+    "version": "0.1.0",
     "license": "MIT",
     "autoload": {
         "psr-0": {"Composer\\Installer": "src/"}
