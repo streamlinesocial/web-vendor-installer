@@ -5,7 +5,7 @@ namespace streamlinesocial\Composer;
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;
 
-class TemplateInstaller extends LibraryInstaller
+class WebVendorInstaller extends LibraryInstaller
 {
     /**
      * {@inheritDoc}
